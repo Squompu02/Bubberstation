@@ -15,6 +15,10 @@
 	name = "Camouflage Uniform"
 	item_path = /obj/item/clothing/under/rank/civilian/bubber/camo
 
+/datum/loadout_item/uniform/msitee
+	name = "Mindless Self Indulgence Tee"
+	item_path = /obj/item/clothing/under/msitee
+
 /datum/loadout_item/uniform/command/stripper //Sprites by SierraGenevese
 	name = "Command Bikini"
 	item_path = /obj/item/clothing/under/rank/civilian/head_of_personnel/stripper

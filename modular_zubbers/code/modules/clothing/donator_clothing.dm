@@ -34,6 +34,14 @@
 	worn_icon_digi = 'modular_zubbers/icons/mob/clothing/under/idmaco_worn_digi.dmi'
 	resistance_flags = FIRE_PROOF
 
+/obj/item/clothing/under/msitee
+	name = "oversized band tee"
+	desc = "A worn tee with a design for some sort of album cover on it. Comfortable, easy to sleep in."
+	icon_state = "msitee"
+	icon = 'modular_zubbers/icons/obj/clothing/under/costume.dmi'
+	worn_icon = 'modular_zubbers/icons/donator/donator_items.dmi'
+	resistance_flags = FIRE_PROOF
+
 /obj/item/clothing/under/rank/idma_utility
 	name = "ironmoon utility fatigue"
 	desc = "An old snow pattern uniform worn commonly worn by IDMA Staff."
